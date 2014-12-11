@@ -1,0 +1,509 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Rustin\Documents\141L_Lab2\miner
+valu
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 DXx4 work 11 alu_sv_unit 0 22 ;@UKTKzBWVc]=^X<J0WBL3
+Z3 VI7lk`SQ8Za@A6?2c<@gWI2
+r1
+31
+Z4 !s100 R9[n3hH8Whcc;Ag`n97Im0
+Z5 IMCLKhU:zRH86j43g_GaZ^1
+Z6 !s105 alu_sv_unit
+S1
+Z7 dC:\Users\Allen\Desktop\lab3\clean\cse141-lab3-master\cse141-lab3-master\miner
+Z8 w1417664077
+Z9 8C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/alu.sv
+Z10 FC:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/alu.sv
+L0 4
+Z11 OV;L;10.1e;51
+Z12 !s108 1417924079.833000
+Z13 !s107 definitions.sv|C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/alu.sv|
+Z14 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/alu.sv|
+Z15 o-work work -sv -O0
+!s85 0
+!i10b 1
+!s101 -O0
+Xalu_sv_unit
+R1
+Z16 V;@UKTKzBWVc]=^X<J0WBL3
+r1
+31
+Z17 !s100 >JfKGIMFRlz9QdhUcTc2[1
+Z18 I;@UKTKzBWVc]=^X<J0WBL3
+S1
+R7
+Z19 w1417664078
+R9
+R10
+Z20 Fdefinitions.sv
+L1 54
+R11
+R12
+R13
+R14
+R15
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+vcl_decode
+R1
+Z21 DXx4 work 17 cl_decode_sv_unit 0 22 YDokVDgX26D28JWPbP7<Q1
+Z22 Vj2XdPkIgM0O^Hn@`n`AWZ1
+r1
+31
+Z23 !s100 L9dH7CRe;hMdL]VoEI]Ek1
+Z24 IZ`4B58ZNF<e^VLa4zg]XK2
+Z25 !s105 cl_decode_sv_unit
+S1
+R7
+R8
+Z26 8C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/cl_decode.sv
+Z27 FC:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/cl_decode.sv
+L0 4
+R11
+Z28 !s108 1417924080.397000
+Z29 !s107 definitions.sv|C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/cl_decode.sv|
+Z30 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/cl_decode.sv|
+R15
+!s85 0
+!i10b 1
+!s101 -O0
+Xcl_decode_sv_unit
+R1
+Z31 VYDokVDgX26D28JWPbP7<Q1
+r1
+31
+Z32 !s100 R^b9=_bWcHzh;YboFe[8^2
+Z33 IYDokVDgX26D28JWPbP7<Q1
+S1
+R7
+R19
+R26
+R27
+R20
+L1 54
+R11
+R28
+R29
+R30
+R15
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+vcl_state_machine
+R1
+Z34 DXx4 work 24 cl_state_machine_sv_unit 0 22 ZE^6:o=^g3C[=W:223Q]b2
+Z35 V_HO6g@<O=0IE^>?5Z5=h`1
+r1
+31
+Z36 !s100 m[aa6F[TAkA04K8mF`=D43
+Z37 IgfiWaS@iie8dOlh>n]<lH0
+Z38 !s105 cl_state_machine_sv_unit
+S1
+R7
+R8
+Z39 8C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/cl_state_machine.sv
+Z40 FC:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/cl_state_machine.sv
+L0 3
+R11
+Z41 !s108 1417924080.865000
+Z42 !s107 definitions.sv|C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/cl_state_machine.sv|
+Z43 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/cl_state_machine.sv|
+R15
+!s85 0
+!i10b 1
+!s101 -O0
+Xcl_state_machine_sv_unit
+R1
+Z44 VZE^6:o=^g3C[=W:223Q]b2
+r1
+31
+Z45 !s100 Z[LlB`X=F>:MoQz1gjmI13
+Z46 IZE^6:o=^g3C[=W:223Q]b2
+S1
+R7
+R19
+R39
+R40
+R20
+L1 54
+R11
+R41
+R42
+R43
+R15
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+vcore
+R1
+Z47 DXx4 work 12 core_sv_unit 0 22 fEnFjkL3K08H@G9QTzR7T0
+Z48 V8g;U8en<PLBg@@AL4CL>f3
+r1
+31
+Z49 !s100 C79jkKJX8AH]0;U>1]j_?2
+Z50 I;Yk@bdWHGjCDh>@n_Oz?^0
+Z51 !s105 core_sv_unit
+S1
+R7
+Z52 w1417822532
+Z53 8C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/core.sv
+Z54 FC:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/core.sv
+L0 3
+R11
+Z55 !s108 1417924081.379000
+Z56 !s107 definitions.sv|C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/core.sv|
+Z57 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/core.sv|
+R15
+!s85 0
+!i10b 1
+!s101 -O0
+vcore_flattened
+R1
+Z58 DXx4 work 22 core_flattened_sv_unit 0 22 <gk=4SzJF[E<7hfIR:kn53
+Z59 V2R0=69R;zAfBGzKl1Q]2X0
+r1
+31
+Z60 !s100 jzBo_4ROhkjJ6E0C>hZ7P2
+Z61 IQM:l?HJ6O:Di5>I@j1PQ@1
+Z62 !s105 core_flattened_sv_unit
+S1
+R7
+R19
+Z63 8C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/core_flattened.sv
+Z64 FC:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/core_flattened.sv
+L0 4
+R11
+Z65 !s108 1417924081.931000
+Z66 !s107 definitions.sv|C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/core_flattened.sv|
+Z67 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/core_flattened.sv|
+R15
+!s85 0
+!i10b 1
+!s101 -O0
+Xcore_flattened_sv_unit
+R1
+Z68 V<gk=4SzJF[E<7hfIR:kn53
+r1
+31
+Z69 !s100 fm9NmbXTEb^O4228[ifQ:1
+Z70 I<gk=4SzJF[E<7hfIR:kn53
+S1
+R7
+R19
+R63
+R64
+R20
+L1 54
+R11
+R65
+R66
+R67
+R15
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+Xcore_sv_unit
+R1
+Z71 VfEnFjkL3K08H@G9QTzR7T0
+r1
+31
+Z72 !s100 N3e[EF@OehaH]AG84``R?3
+Z73 IfEnFjkL3K08H@G9QTzR7T0
+S1
+R7
+R52
+R53
+R54
+R20
+L1 54
+R11
+R55
+R56
+R57
+R15
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+vcore_tb
+R1
+Z74 DXx4 work 15 core_tb_sv_unit 0 22 3HGPAP9eIWXUch2YWQEj02
+Z75 VlN3iUPNV?OYGNgj@DJaoE2
+r1
+31
+Z76 !s100 SoAhABzhP5FfbeQJ7?bF01
+Z77 IH1IOPhZ<Dgg>eQ]`>0T?S1
+Z78 !s105 core_tb_sv_unit
+S1
+R7
+R19
+Z79 8C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/core_tb.sv
+Z80 FC:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/core_tb.sv
+L0 17
+R11
+Z81 !s108 1417924082.551000
+Z82 !s107 definitions.sv|C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/core_tb.sv|
+Z83 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/core_tb.sv|
+R15
+!s85 0
+!i10b 1
+!s101 -O0
+Xcore_tb_sv_unit
+R1
+Z84 V3HGPAP9eIWXUch2YWQEj02
+r1
+31
+Z85 !s100 nOIb^P=HhU3a^6kVdMKcg3
+Z86 I3HGPAP9eIWXUch2YWQEj02
+S1
+R7
+R19
+R79
+R80
+R20
+L1 54
+R11
+R81
+R82
+R83
+R15
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+vdata_mem
+R1
+Z87 DXx4 work 16 data_mem_sv_unit 0 22 JiCTRzL0g@5afzWkQ>BfZ1
+Z88 VJTgBNdnj9c=zg80[gUozo3
+r1
+31
+Z89 !s100 HB3]ZYS6nhznKZT3E6meE1
+Z90 I5VL0Gh>PYaG]4[dmP81gl0
+Z91 !s105 data_mem_sv_unit
+S1
+R7
+R19
+Z92 8C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/data_mem.sv
+Z93 FC:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/data_mem.sv
+L0 11
+R11
+Z94 !s108 1417924083.004000
+Z95 !s107 definitions.sv|C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/data_mem.sv|
+Z96 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/data_mem.sv|
+R15
+!s85 0
+!i10b 1
+!s101 -O0
+Xdata_mem_sv_unit
+R1
+Z97 VJiCTRzL0g@5afzWkQ>BfZ1
+r1
+31
+Z98 !s100 i4>G2]AeQdW9coRC8?OGB3
+Z99 IJiCTRzL0g@5afzWkQ>BfZ1
+S1
+R7
+R19
+R92
+R93
+R20
+L1 54
+R11
+R94
+R95
+R96
+R15
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+Xdefinitions_sv_unit
+R1
+Z100 !s100 iTX0XSamN>[W8iU=jCT9k2
+Z101 IJ0<]R@P_V_E80iB:C9BhI0
+Z102 VJ0<]R@P_V_E80iB:C9BhI0
+S1
+R7
+R19
+Z103 8C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/definitions.sv
+Z104 FC:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/definitions.sv
+L0 54
+R11
+r1
+31
+Z105 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/definitions.sv|
+R15
+Z106 !s108 1417924083.612000
+Z107 !s107 C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/definitions.sv|
+!i10b 1
+!i103 1
+!s85 0
+!s101 -O0
+vinstr_mem
+R1
+Z108 DXx4 work 17 instr_mem_sv_unit 0 22 GXiJmo:ROfB1Hi7Cc@oNS3
+Z109 VFbL0l?mC^hD9I>mmSWaGQ0
+r1
+31
+Z110 !s100 VdUkz0c6OhjQ@bzB16PCm2
+Z111 Ikbaa[DTG0<=2VP[X]]I<Z3
+Z112 !s105 instr_mem_sv_unit
+S1
+R7
+R19
+Z113 8C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/instr_mem.sv
+Z114 FC:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/instr_mem.sv
+L0 5
+R11
+Z115 !s108 1417924085.382000
+Z116 !s107 definitions.sv|C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/instr_mem.sv|
+Z117 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/instr_mem.sv|
+R15
+!s85 0
+!i10b 1
+!s101 -O0
+Xinstr_mem_sv_unit
+R1
+Z118 VGXiJmo:ROfB1Hi7Cc@oNS3
+r1
+31
+Z119 !s100 8RLF:X<A2W1YKim5HbF5e0
+Z120 IGXiJmo:ROfB1Hi7Cc@oNS3
+S1
+R7
+R19
+R113
+R114
+R20
+L1 54
+R11
+R115
+R116
+R117
+R15
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+vminer_tb
+R1
+Z121 DXx4 work 16 miner_tb_sv_unit 0 22 z:5_h8KZVSHBUja?=<4]P2
+Z122 VmUcjK`[BR2I4D=oC[X9C`0
+r1
+!s85 0
+31
+!i10b 1
+!s100 18HBC2]m=W]H2dzj5<1[R3
+Iz]kV6=967Cn2IK;WK]zMY1
+Z123 !s105 miner_tb_sv_unit
+S1
+R7
+Z124 w1417930278
+Z125 8C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/miner_tb.sv
+Z126 FC:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/miner_tb.sv
+L0 21
+R11
+Z127 !s108 1417930282.476000
+Z128 !s107 definitions.sv|C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/miner_tb.sv|
+Z129 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/miner_tb.sv|
+!s101 -O0
+R15
+Xminer_tb_sv_unit
+R1
+Z130 Vz:5_h8KZVSHBUja?=<4]P2
+r1
+!s85 0
+31
+!i10b 1
+Z131 !s100 zkAId=YWC5;7?51@`;m8P2
+Z132 Iz:5_h8KZVSHBUja?=<4]P2
+!i103 1
+S1
+R7
+R124
+R125
+R126
+R20
+L1 54
+R11
+R127
+R128
+R129
+!s101 -O0
+R15
+Xnet_packet_logger_s_sv_unit
+R1
+Z133 V4NCG0Ve7bF9=2@kNP:bLd3
+r1
+31
+Z134 !s100 nIk250>WdbYQbXTF<Vd1k0
+Z135 I4NCG0Ve7bF9=2@kNP:bLd3
+S1
+R7
+R19
+Z136 8C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/net_packet_logger_s.sv
+Z137 FC:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/net_packet_logger_s.sv
+R20
+L1 54
+R11
+Z138 !s108 1417924086.483000
+Z139 !s107 definitions.sv|C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/net_packet_logger_s.sv|
+Z140 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/net_packet_logger_s.sv|
+R15
+!s85 0
+!i10b 1
+!i103 1
+!s101 -O0
+vnetwork_packet_s_logger
+R1
+Z141 DXx4 work 27 net_packet_logger_s_sv_unit 0 22 4NCG0Ve7bF9=2@kNP:bLd3
+Z142 VPlgif>=;4=jBTE<GHm7GV1
+r1
+31
+Z143 !s100 gkLO4KMJHm`TAnFOd4c>m3
+Z144 IRllMh[6Nf<CmWm2<ZeNRJ0
+Z145 !s105 net_packet_logger_s_sv_unit
+S1
+R7
+R19
+R136
+R137
+L0 8
+R11
+R138
+R139
+R140
+R15
+!s85 0
+!i10b 1
+!s101 -O0
+vreg_file
+R1
+Z146 !s100 `EA_EUn_dO;o<@_G:TEB30
+Z147 I;4T0Qli]CM]9j<EYR2X_o1
+Z148 VD74VOFVKJXa3lQF`;:Obz1
+Z149 !s105 reg_file_sv_unit
+S1
+R7
+R19
+Z150 8C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/reg_file.sv
+Z151 FC:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/reg_file.sv
+L0 3
+R11
+r1
+31
+Z152 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/reg_file.sv|
+R15
+!i10b 1
+!s85 0
+Z153 !s108 1417924087.013000
+Z154 !s107 C:/Users/Allen/Desktop/lab3/clean/cse141-lab3-master/cse141-lab3-master/miner/reg_file.sv|
+!s101 -O0
